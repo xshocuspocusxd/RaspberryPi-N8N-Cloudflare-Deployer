@@ -45,14 +45,14 @@ RaspberryPi-N8N-Cloudflare-Deployer is a comprehensive solution for running your
 ### Quick Installation
 
 ```bash
-wget -O install-n8n.sh https://raw.githubusercontent.com/user/RaspberryPi-N8N-Cloudflare-Deployer/main/rpi-n8n-cloudflare-installer.sh && chmod +x install-n8n.sh && ./install-n8n.sh
+wget -O install-n8n.sh https://raw.githubusercontent.com/xshocuspocusxd/RaspberryPi-N8N-Cloudflare-Deployer/refs/heads/main/rpi-n8n-cloudflare-installer.sh && chmod +x install-n8n.sh && ./install-n8n.sh
 ```
 
 ### Manual Installation
 
 1. Download the installation script
 ```bash
-wget -O install-n8n.sh https://raw.githubusercontent.com/user/RaspberryPi-N8N-Cloudflare-Deployer/main/rpi-n8n-cloudflare-installer.sh
+wget -O install-n8n.sh https://raw.githubusercontent.com/xshocuspocusxd/RaspberryPi-N8N-Cloudflare-Deployer/refs/heads/main/rpi-n8n-cloudflare-installer.sh
 ```
 
 2. Make it executable
@@ -210,14 +210,14 @@ RaspberryPi-N8N-Cloudflare-Deployer to kompleksowe rozwiązanie umożliwiające 
 ### Szybka instalacja
 
 ```bash
-wget -O install-n8n.sh https://raw.githubusercontent.com/user/RaspberryPi-N8N-Cloudflare-Deployer/main/rpi-n8n-cloudflare-installer.sh && chmod +x install-n8n.sh && ./install-n8n.sh
+wget -O install-n8n.sh https://raw.githubusercontent.com/xshocuspocusxd/RaspberryPi-N8N-Cloudflare-Deployer/refs/heads/main/rpi-n8n-cloudflare-installer.sh && chmod +x install-n8n.sh && ./install-n8n.sh
 ```
 
 ### Instalacja manualna
 
 1. Pobierz skrypt instalacyjny
 ```bash
-wget -O install-n8n.sh https://raw.githubusercontent.com/user/RaspberryPi-N8N-Cloudflare-Deployer/main/rpi-n8n-cloudflare-installer.sh
+wget -O install-n8n.sh https://raw.githubusercontent.com/xshocuspocusxd/RaspberryPi-N8N-Cloudflare-Deployer/refs/heads/main/rpi-n8n-cloudflare-installer.sh
 ```
 
 2. Nadaj uprawnienia wykonywania
