@@ -600,7 +600,7 @@ if [ -z "\$1" ]; then
   exit 1
 fi
 
-BACKUP_DIR="/home/${USER}/backups"
+BACKUP_DIR="/root/backups"
 DATE=\$1
 
 # Sprawdzenie czy backup istnieje
